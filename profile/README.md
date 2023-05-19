@@ -8,4 +8,3 @@ Xpress egyetemi projekt
   Developer = P. András,
   
 ```
-<span style="color:blue">some *blue* text</span>
