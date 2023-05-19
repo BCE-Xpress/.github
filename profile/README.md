@@ -6,5 +6,4 @@ Xpress egyetemi projekt
   Content Owner = S. Omar,
   Marketing = Sz. Ádám,
   Developer = P. András,
-  
 ```
