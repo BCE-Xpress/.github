@@ -1,7 +1,7 @@
 Xpress egyetemi projekt
 ---
 ```
-  Projektvezető = B. Kristóf,
+  Project manager = B. Kristóf,
   Data Manager = K. Gergő,
   Content Owner = S. Omar,
   Marketing = Sz. Ádám,
